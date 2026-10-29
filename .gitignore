@@ -2,3 +2,8 @@ sentences.*
 snli_1.0_train.*
 glove.6B.50d.*
 tatoeba
+images
+loss
+model
+.vscode
+gradio.*
